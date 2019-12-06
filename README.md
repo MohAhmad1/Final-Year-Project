@@ -41,6 +41,8 @@ Week 11: Tried to install OpenCv again and it worked this time.
 December:
 
 Week 12: Got face recognition working.
+         Planing of getting the PIR motion sensor working this month(Ran out of time).
+         Bit behind but hopefully catch up next semester.
 
 Week 13: Presentaion.
 
