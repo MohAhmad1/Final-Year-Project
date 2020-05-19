@@ -48,24 +48,24 @@ Week 13: Presentaion.
 
 January:
 
-       -Start on the PIR motion sensor.
-       -Start working on making an app to where we can live stream video.
+       Got the PIR motion sensor working.
+       -Started working on sedning out emails
        
 February:
 
-       -Try to finish the app by end of this month and get it up and running.
-       -Start with the GSM to send text messages.
+       -Able to send mail
+       -Puting the code together so it can compile without errors
 
 March: 
 
-       -Hopefully have all the above steps completed by this month.
+       -Got all the code working together but had few issues with sending mail at the right time
        -Run a few tests to make sure everything is working.
-       -Put it all together
+       -Got it wokring up to date
        
 April:
 
-       -Finish up with my project this month.
-       -Give a bit of extra time so if any thing happens so I can catch up on in this month.
+       -Working on the Live stream
+       -Trying to put everything together but having issues
        
 May:
         
